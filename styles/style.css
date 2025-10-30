@@ -319,26 +319,22 @@ nav ul li > .dorpdown li:hover .dorpdown.sub{
     height: auto !important;
   }
 
-  /* aside */
   aside,
   .saside {
     width: 100% !important;
     gap: 50px !important;
   }
 
-  /* navbar */
   nav {
     flex-direction: row !important;
     justify-content: space-between !important;
     align-items: center !important;
   }
 
-  /* إخفاء بعض العناصر الثقيلة أو الكبيرة لو لزم الأمر */
   .follow {
     justify-content: center !important;
   }
 
-  /* footer */
   footer {
     grid-template-columns: 1fr !important;
     text-align: center !important;
